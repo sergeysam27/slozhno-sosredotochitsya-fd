@@ -273,15 +273,13 @@
   }
 
   .main {
-    margin: 0 0 60px 0;
-    padding: 0 5px;
+    margin: 0 20px 60px;
     gap: 80px;
   }
 
   .section {
     flex-direction: row;
     gap: 20px;
-    padding: 0 0 0 30px;
   }
 
   .no-spacing-width {
